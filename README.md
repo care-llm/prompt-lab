@@ -6,8 +6,7 @@ Acess PromptLab on Google Colab: <a target="_blank" href="https://colab.research
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-![PromptViewer UI1](media/dashboard_screenshot1.png)
-![PromptViewer UI2](media/dashboard_screenshot2.png)
+![PromptViewer UI](media/dashboard_screenshot.png)
 
 ## Features
 

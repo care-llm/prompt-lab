@@ -24,8 +24,8 @@ Acess PromptLab on Google Colab: <a target="_blank" href="https://colab.research
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/promptviewer.git
-cd promptviewer
+git clone git@github.com:care-llm/prompt-lab.git
+cd prompt-lab
 ```
 
 2. Install dependencies:

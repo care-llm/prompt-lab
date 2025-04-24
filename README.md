@@ -2,7 +2,9 @@
 
 An interactive Jupyter-based tool for exploring prompt engineering and LLM evaluations.
 
-Acess PromptLab on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-org/promptviewer/blob/main/PromptViewerDemo.ipynb)
+Acess PromptLab on Google Colab: <a target="_blank" href="https://colab.research.google.com/github/care-llm/prompt-lab/blob/main/PromptLabDashboard.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ![PromptViewer UI1](media/dashboard_screenshot1.png)
 ![PromptViewer UI2](media/dashboard_screenshot2.png)

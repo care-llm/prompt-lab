@@ -70,5 +70,5 @@ def launch_ui(df):
     strategy_selector.observe(update_ui, names="value")
 
     display(ui, out)
-    update_ui()  # initial render
+    update_ui()
 

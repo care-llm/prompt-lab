@@ -4,12 +4,8 @@ An interactive Jupyter-based tool for exploring prompt engineering and LLM evalu
 
 Acess PromptLab on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-org/promptviewer/blob/main/PromptViewerDemo.ipynb)
 
-## Features
-
-- Load scenarios from Excel
-- View prompt strategies: zero-shot, human-engineered, few-shot
-- See clinical excerpts, LLM responses, and evaluations
-- Visual UI with colored sections and organized layout
+![PromptViewer UI1](media/dashboard_screenshot1.png)
+![PromptViewer UI2](media/dashboard_screenshot2.png)
 
 ## Features
 
@@ -18,6 +14,9 @@ Acess PromptLab on Google Colab: [![Open In Colab](https://colab.research.google
 - Visualize prompts, clinical text, LLM responses, and evaluation scores
 - Interactive dropdown to switch between scenarios
 - Styled layout for readability and demo-ready presentations
+
+
+
 
 ## How to Run
 
@@ -59,10 +58,10 @@ launch_ui(df)
 
 ## Requirements
 
-- Python 3.8+
-- pandas
-- ipywidgets
-- openpyxl (for Excel)
+- `Python 3.8+`
+- `pandas`
+- `ipywidgets`
+- `openpyxl` (for Excel)
 
 ## License
 

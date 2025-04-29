@@ -1,3 +1,10 @@
+# This source file is part of the ARPA-H CARE LLM project
+#
+# SPDX-FileCopyrightText: 2025 Stanford University and the project authors (see AUTHORS.md)
+#
+# SPDX-License-Identifier: MIT
+# 
+
 import pandas as pd
 import ipywidgets as widgets
 from IPython.display import display, HTML, clear_output

@@ -51,6 +51,7 @@ launch_ui(df)
 ## File Structure
 
 - `prompt_viewer.py`: Core UI logic and rendering
+- `prompt_generator.py`: Standalone utility script acting as a (non-optimized) prompt refiner
 - `PromptViewerDemo.ipynb`: Demo notebook for running the interactive viewer
 - `scenario_prompting_evaluation.xlsx`: Example scenario dataset (not included)
 - `requirements.txt`: Python dependencies
